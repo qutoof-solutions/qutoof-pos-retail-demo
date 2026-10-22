@@ -51,6 +51,7 @@ export default function HomePage() {
 
   useEffect(() => { const stored = localStorage.getItem("qutoof-demo-first-launch"); const stamp = stored ? Number(stored) : Date.now(); if (!stored) localStorage.setItem("qutoof-demo-first-launch", String(stamp)); setFirstLaunch(stamp); const timer = window.setInterval(() => setNow(Date.now()), 60000); return () => window.clearInterval(timer); }, []);
   useEffect(() => { document.documentElement.lang = locale; document.documentElement.dir = dir; }, [locale, dir]);
+  useEffect(() => { document.body.style.overflow = drawerOpen ? "hidden" : ""; return () => { document.body.style.overflow = ""; }; }, [drawerOpen]);
 
   const filtered = useMemo(() => PRODUCTS.filter((p) => `${p.name} ${p.nameEn} ${p.barcode}`.toLowerCase().includes(query.toLowerCase())), [query]);
   const subtotal = cart.reduce((sum, line) => sum + line.price * line.quantity, 0);

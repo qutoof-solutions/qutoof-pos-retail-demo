@@ -1,0 +1,21 @@
+name = "qutoof-crm-2"
+compatibility_date = "2026-10-08"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "qutoof-db"
+database_id = "9eeffd92-b58f-43ca-ac88-a8036e9a9646"
+migrations_dir = "drizzle/migrations"
+
+[[kv_namespaces]]
+binding = "KV_BINDING"
+id = "76c36d0b7e364ba1bf0c1d39d6954605"
+
+[[r2_buckets]]
+binding = "FILES"
+bucket_name = "qutoof-crm-files"
+
+[vars]
+APP_ENV = "production"

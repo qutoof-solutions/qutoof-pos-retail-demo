@@ -1,0 +1,1 @@
+ALTER TABLE `whatsapp_connections` ADD `reminder_three_hour_template` text DEFAULT 'qutoof_appointment_reminder_3h' NOT NULL;

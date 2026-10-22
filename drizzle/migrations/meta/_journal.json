@@ -1,0 +1,349 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791425458508,
+      "tag": "0000_tiny_retro_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791425499883,
+      "tag": "0001_brave_shockwave",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791428526096,
+      "tag": "0002_whole_union_jack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791429389778,
+      "tag": "0003_keen_blue_shield",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791452447867,
+      "tag": "0004_tiresome_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791452676025,
+      "tag": "0005_absent_grey_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1791455562375,
+      "tag": "0006_open_imperial_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1791464830208,
+      "tag": "0007_whatsapp_three_hour_reminder_template",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1791508334621,
+      "tag": "0008_super_admin_security",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1791509779504,
+      "tag": "0009_tenant_manual_payment_settings",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1791510247255,
+      "tag": "0010_flashy_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1791541663780,
+      "tag": "0011_opposite_barracuda",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1791587369021,
+      "tag": "0012_messy_maelstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "6",
+      "when": 1791587634716,
+      "tag": "0013_noisy_toad_men",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "6",
+      "when": 1791588132578,
+      "tag": "0014_brief_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "6",
+      "when": 1791590018698,
+      "tag": "0015_misty_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "6",
+      "when": 1791720714399,
+      "tag": "0016_mute_cerise",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "6",
+      "when": 1791721627646,
+      "tag": "0017_dry_romulus",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "6",
+      "when": 1791722816471,
+      "tag": "0018_familiar_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "6",
+      "when": 1791730000000,
+      "tag": "0019_service_material_guards",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "6",
+      "when": 1791744695569,
+      "tag": "0020_branch_memberships",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "6",
+      "when": 1791883664267,
+      "tag": "0021_reconcile_production_schema_drift",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "6",
+      "when": 1792000781581,
+      "tag": "0022_pos_offline_mode",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "6",
+      "when": 1792006234491,
+      "tag": "0023_clinical_prescription_dispensing",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "6",
+      "when": 1792013485860,
+      "tag": "0024_uneven_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "6",
+      "when": 1792015000000,
+      "tag": "0025_staff_shifts_roster",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "6",
+      "when": 1792099387272,
+      "tag": "0026_feature_requests",
+      "breakpoints": true
+    },
+    {
+      "idx": 27,
+      "version": "6",
+      "when": 1792111500557,
+      "tag": "0027_resource_addons",
+      "breakpoints": true
+    },
+    {
+      "idx": 28,
+      "version": "6",
+      "when": 1792113968863,
+      "tag": "0028_installments",
+      "breakpoints": true
+    },
+    {
+      "idx": 29,
+      "version": "6",
+      "when": 1792144775946,
+      "tag": "0029_customer_supplier_cheques",
+      "breakpoints": true
+    },
+    {
+      "idx": 30,
+      "version": "6",
+      "when": 1792148533259,
+      "tag": "0030_whatsapp_basic_mode",
+      "breakpoints": true
+    },
+    {
+      "idx": 31,
+      "version": "6",
+      "when": 1792166631376,
+      "tag": "0031_purple_morg",
+      "breakpoints": true
+    },
+    {
+      "idx": 32,
+      "version": "6",
+      "when": 1792175277814,
+      "tag": "0032_staff_attendance",
+      "breakpoints": true
+    },
+    {
+      "idx": 33,
+      "version": "6",
+      "when": 1792176073208,
+      "tag": "0033_support_tickets",
+      "breakpoints": true
+    },
+    {
+      "idx": 34,
+      "version": "6",
+      "when": 1792234940590,
+      "tag": "0034_bent_raza",
+      "breakpoints": true
+    },
+    {
+      "idx": 35,
+      "version": "6",
+      "when": 1792246477999,
+      "tag": "0035_uom_price_tiers",
+      "breakpoints": true
+    },
+    {
+      "idx": 36,
+      "version": "6",
+      "when": 1792280054275,
+      "tag": "0036_path6_distribution_treasury",
+      "breakpoints": true
+    },
+    {
+      "idx": 37,
+      "version": "6",
+      "when": 1792260900457,
+      "tag": "0037_path6_medical_engine",
+      "breakpoints": true
+    },
+    {
+      "idx": 38,
+      "version": "6",
+      "when": 1792292630990,
+      "tag": "0038_modern_rachel_grey",
+      "breakpoints": true
+    },
+    {
+      "idx": 39,
+      "version": "7",
+      "when": 1792295000000,
+      "tag": "0039_whatsapp_advanced_connection_fields",
+      "breakpoints": true
+    },
+    {
+      "idx": 40,
+      "version": "6",
+      "when": 1792343618130,
+      "tag": "0040_bilingual_catalog_identity",
+      "breakpoints": true
+    },
+    {
+      "idx": 41,
+      "version": "6",
+      "when": 1792417434538,
+      "tag": "0041_material_lady_vermin",
+      "breakpoints": true
+    },
+    {
+      "idx": 42,
+      "version": "6",
+      "when": 1792435323596,
+      "tag": "0042_medical_contracts_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 43,
+      "version": "6",
+      "when": 1792435341507,
+      "tag": "0043_pos_contracts",
+      "breakpoints": true
+    },
+    {
+      "idx": 44,
+      "version": "6",
+      "when": 1792435409526,
+      "tag": "0044_pos_invoice_line_contract",
+      "breakpoints": true
+    },
+    {
+      "idx": 45,
+      "version": "6",
+      "when": 1792443035599,
+      "tag": "0045_p2_operational_contracts",
+      "breakpoints": true
+    },
+    {
+      "idx": 46,
+      "version": "6",
+      "when": 1792536884528,
+      "tag": "0046_add_plan_descriptions",
+      "breakpoints": true
+    },
+    {
+      "idx": 47,
+      "version": "6",
+      "when": 1792592274010,
+      "tag": "0047_add_plan_usage_limits",
+      "breakpoints": true
+    },
+    {
+      "idx": 48,
+      "version": "6",
+      "when": 1792602720683,
+      "tag": "0048_plan_name_per_billing_cycle",
+      "breakpoints": true
+    }
+  ]
+}

@@ -10,3 +10,5 @@ next-env.d.ts
 !.dev.vars.example
 *.log
 .DS_Store
+
+out/

@@ -1,28 +1,14 @@
 {
-  "name": "qutoof-crm-2",
+  "name": "qutoof-pos-retail-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "pages:build": "npx @cloudflare/next-on-pages",
-    "preview": "wrangler pages dev .vercel/output/static --compatibility-date=2026-10-08",
-    "deploy": "wrangler pages deploy .vercel/output/static",
-    "lint": "eslint app components lib tests drizzle.config.ts next.config.ts",
+    "build:demo": "next build",
     "typecheck": "tsc --noEmit",
-    "test": "tsx --test tests/*.test.ts",
-    "extract:i18n": "tsx scripts/extract-all-arabic-strings.ts",
-    "check:i18n": "tsx scripts/check-i18n-static-text.ts",
-    "check:i18n:strict": "tsx scripts/check-i18n-static-text.ts --strict",
-    "verify": "npm run typecheck && npm run lint && npm run check:i18n:strict && npm test && npm run build",
-    "test:integration": "python3 scripts/phase4-integration.py",
-    "test:inventory": "python3 scripts/inventory-integration.py",
-    "test:api": "python3 scripts/tenant-isolation-api.py",
-    "db:generate": "drizzle-kit generate",
-    "cron:dev": "wrangler dev --config wrangler.whatsapp-cron.toml",
-    "cron:deploy": "wrangler deploy --config wrangler.whatsapp-cron.toml",
-    "db:migrate:local": "wrangler d1 migrations apply qutoof-db --local",
-    "db:migrate:remote": "wrangler d1 migrations apply qutoof-db --remote"
+    "lint": "eslint app components next.config.ts",
+    "verify": "npm run typecheck && npm run lint && npm run build:demo"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",

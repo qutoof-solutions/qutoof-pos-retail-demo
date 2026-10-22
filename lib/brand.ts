@@ -1,5 +1,5 @@
-export const PRODUCT_NAME = "Qutoof Business";
-export const PRODUCT_TAGLINE = "منظومة تشغيل وإدارة الأعمال السحابية";
+export const PRODUCT_NAME = "قطوف كاشير - نظام إدارة المتاجر ونقاط البيع";
+export const PRODUCT_TAGLINE = "Qutoof Cashier - Retail & POS Management";
 
 /**
  * The only application-owned registry for the public brand assets.
